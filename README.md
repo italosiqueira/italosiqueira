@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img alt="Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
   
+##
 
 ### Profissional
 
